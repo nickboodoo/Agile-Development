@@ -1,5 +1,7 @@
-# Project1
+# Agile
 This is a repository for a class project
+
+
 There is a pptx and a docx file that can be downloaded and viewed
 I will answer the required questions below:
 
